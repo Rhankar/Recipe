@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "TestRecipe",
+	"MealType": 0,
+	"NumberPeopleServed": 4,
+	"Difficulty": 0,
+	"Ingredients":[
+	{
+		"Name": "AAA",
+		"Quantity": "100 grams"
+	},
+	{
+		"Name": "BBB",
+		"Quantity": "100 grams"
+	}],
+	"PreparationSteps":
+	[
+		"1. AAA",
+		"2. BBB"
+	]
+  }
+]
